@@ -1,4 +1,4 @@
-# visibility_level_calculator
+visibility_level_calculator Application
 
 Diminished visibility in dim light degrades performance and safety on tasks that depend on the timely detection of visual targets. Various contrast-detection models have been proposed to quantify visibility in dim light. Of these, the Adrian (1989) visibility level (VL) model accounts for more of the important variables (e.g., target size, distance and luminance, background luminance, target distance, viewing duration, observer age, glare illuminance and location, and eye colour) and is the most widely accepted. The visibility level calculator (VLC) provides engineers, human factors professionals and vision scientists with a free easy-to-use tool that automates the calculation of VL within the modified Adrian/CIE model (Ising, 2008).
 
