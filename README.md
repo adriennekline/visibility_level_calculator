@@ -1,14 +1,16 @@
 # visibility_level_calculator
-Visibility Level Calculator App
 
-The purpose of this application is to allow traffic engineers, vision scientists, or human factors to given a numerical quantity to how well (visibility level) a human with 20/20 vision can see a object based on distance, contrast, glare sources and their age.
+Diminished visibility in dim light degrades performance and safety on tasks that depend on the timely detection of visual targets. Various contrast-detection models have been proposed to quantify visibility in dim light. Of these, the Adrian (1989) visibility level (VL) model accounts for more of the important variables (e.g., target size, distance and luminance, background luminance, target distance, viewing duration, observer age, glare illuminance and location, and eye colour) and is the most widely accepted. The visibility level calculator (VLC) provides engineers, human factors professionals and vision scientists with a free easy-to-use tool that automates the calculation of VL within the modified Adrian/CIE model (Ising, 2008).
 
-Several parameters must be defined for the calculator to generate the visibility level (VL) for any given target with up to 5 glare sources. Specifically:
+	Several target and observer factors that affect visibility that are not currently included in the Adrian/CIE model provide significant opportunities for future research to enhance the measurement of nighttime target visibility. We hope that the VLC will foster lab and field studies to advance the Adrian/CIE model and enhance the objective measurement of VL.
 
-1. Target area (m^2) and distance (m) from the eye of the observer
-2. The luminance of the target (cd/m^2) and the target background (cd/M^2)
-3. Assessment of the disability glare illuminance (lux). Glare acts to increase the background luminance and to increase the contrast threshold. Its luminance in (lux), angles (deg) from the glare sources to the observer's eye, observer's age (yrs) and iris color (black, brown, light, very light) all feed into the calculation of the correction for disability glare.
-4. The observer's age
-5. Duration (s) over which the observer could view the target The VL calculator will use the preceding to calculate the VL contrast ratio
+	Nighttime visibility, safety in nighttime driving, the modified Adrian/CIE model, the calculation steps in and guidelines for using the VLC and future research suggestions are provided in a paper currently under review for publication in a peer-review journal. If published, the reference to that paper will be provided here.
+References
 
-Created by Adrienne, Don, Theresa Kline
+Adrian, W. (1989). Visibility of targets: Model for calculation. Lighting Research and Technology, 21(4), 181-188. 
+Ising, K. W. (2008). Threshold visibility levels required for nighttime pedestrian detection in a modified Adrian/CIE visibility model. LEUKOS: Journal of Illuminating Engineering Society of North America, 5(1), 63-75.
+
+The VLC was created by Adrienne, Donald & Theresa Kline
+The University of Calgary
+December, 2019
+
