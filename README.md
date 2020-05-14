@@ -4,9 +4,9 @@ Diminished visibility in dim light degrades performance and safety on tasks that
 
 Several target and observer factors that affect visibility that are not currently included in the Adrian/CIE model provide significant opportunities for future research to enhance the measurement of nighttime target visibility. We hope that the VLC will foster lab and field studies to advance the Adrian/CIE model and enhance the objective measurement of VL.
 
-Nighttime visibility, safety in nighttime driving, the modified Adrian/CIE model, the calculation steps in and guidelines for using the VLC and future research suggestions are provided in a paper currently under review for publication in a peer-review journal. If published, the reference to that paper will be provided here.
-References
+Nighttime visibility, safety in nighttime driving, the modified Adrian/CIE model, the calculation steps in and guidelines for using the VLC and future research suggestions are provided in a paper currently in press at Journal of Science and Technology in Lighting.
 
+References
 [1] Adrian, W. (1989). Visibility of targets: Model for calculation. Lighting Research and Technology, 21(4), 181-188. 
 [2] Ising, K. W. (2008). Threshold visibility levels required for nighttime pedestrian detection in a modified Adrian/CIE visibility model. LEUKOS: Journal of Illuminating Engineering Society of North America, 5(1), 63-75.
 
